@@ -1,0 +1,3 @@
+,icao,iata,name,shortName,municipalityName,countryCode,location.lat,location.lon,city
+0,EDDB,BER,"Berlin, Berlin Brandenburg",Brandenburg,Berlin,DE,52.35139,13.493889,Berlin
+1,EDDT,TXL,"Berlin, Berlin-Tegel",-Tegel,Berlin,DE,52.5597,13.287699,Berlin
